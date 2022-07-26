@@ -1,0 +1,16 @@
+{
+  "schemas": [
+    {
+      "dogs": [
+        {
+          "id": 1,
+          "name": "pots"
+        },
+        {
+          "name": "betty",
+          "id": 2
+        }
+      ]
+    }
+  ]
+}
